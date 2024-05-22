@@ -1,0 +1,12 @@
+Hicimos dos index con formas distinas de hacerlo pero los dos funcionan perfectamente y cumplen con los requerimientos del desafio,
+ uno con funciones de flechas y el otro sin ellas. (-- indexprueba.js tiene las funciones de flecha--)
+
+Tambien en las imagenes puse una B. en las las que fueron hechas en index.js para probar que funcionan en las dos formas.
+
+Tengo un .env(no subido por .gitignore) que tiene lo pedido en postgres que se tienen que rellenar con los datos correspondientes:
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_HOST=
+POSTGRES_PORT=
+POSTGRES_DATABASE=
+
